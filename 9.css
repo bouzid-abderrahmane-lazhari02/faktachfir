@@ -1,0 +1,26 @@
+#app{
+    width: 100%;
+    max-width: 100%;
+}
+#app p{
+    width: 100%;
+    padding: 14px;
+    background: red;
+    color: aliceblue;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+}
+#app textarea{
+    width: 100%;
+    border: 2px solid red;
+    outline: none;
+    border-radius: 14px;
+    min-height: 140px;
+}
+#app select{
+    width: 100%;
+    padding: 14px;
+    border-radius: 14px;
+    margin-bottom: 14px;
+}
